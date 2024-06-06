@@ -28,8 +28,7 @@
     "__resolveType": "site/sections/Theme/Theme.tsx"
   },
   "/.deco/blocks/pages-Start-15553.json": {
-    "name": "Home",
-    "path": "/",
+    "name": "Decopilot",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
